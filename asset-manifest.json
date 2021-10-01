@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/static/css/main.19f2e97e.chunk.css",
+    "main.js": "/static/js/main.175b0d3f.chunk.js",
+    "main.js.map": "/static/js/main.175b0d3f.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.9c713975.js",
+    "runtime-main.js.map": "/static/js/runtime-main.9c713975.js.map",
+    "static/js/2.c1fcaa17.chunk.js": "/static/js/2.c1fcaa17.chunk.js",
+    "static/js/2.c1fcaa17.chunk.js.map": "/static/js/2.c1fcaa17.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.19f2e97e.chunk.css.map": "/static/css/main.19f2e97e.chunk.css.map",
+    "static/js/2.c1fcaa17.chunk.js.LICENSE.txt": "/static/js/2.c1fcaa17.chunk.js.LICENSE.txt",
+    "static/media/about.61812f48.jpg": "/static/media/about.61812f48.jpg",
+    "static/media/avatar.68845f51.png": "/static/media/avatar.68845f51.png",
+    "static/media/blog1.7ecbb78c.svg": "/static/media/blog1.7ecbb78c.svg",
+    "static/media/blog2.09939351.svg": "/static/media/blog2.09939351.svg",
+    "static/media/blog3.6291ee7c.svg": "/static/media/blog3.6291ee7c.svg",
+    "static/media/blog4.60aa6cec.svg": "/static/media/blog4.60aa6cec.svg",
+    "static/media/blog5.2599a6b1.svg": "/static/media/blog5.2599a6b1.svg",
+    "static/media/App.scss": "/static/media/dots.9978678b.svg",
+    "static/media/emailme.a60657eb.svg": "/static/media/emailme.a60657eb.svg",
+    "static/media/javascript1.e3c6e9c9.png": "/static/media/javascript1.e3c6e9c9.png",
+    "static/media/javascript2.3b80774f.png": "/static/media/javascript2.3b80774f.png",
+    "static/media/location.5cd6776e.svg": "/static/media/location.5cd6776e.svg",
+    "static/media/mobile.73765135.png": "/static/media/mobile.73765135.png",
+    "static/media/phone.ef86e22a.svg": "/static/media/phone.ef86e22a.svg",
+    "static/media/react1.6b37202a.png": "/static/media/react1.6b37202a.png",
+    "static/media/react2.155a844c.png": "/static/media/react2.155a844c.png",
+    "static/media/react3.b28d08bf.png": "/static/media/react3.b28d08bf.png",
+    "static/media/training.4fb690b4.png": "/static/media/training.4fb690b4.png",
+    "static/media/web.b676d0dd.png": "/static/media/web.b676d0dd.png",
+    "static/media/wp1.02f70ba3.png": "/static/media/wp1.02f70ba3.png",
+    "static/media/wp2.44f5eb4f.png": "/static/media/wp2.44f5eb4f.png",
+    "static/media/wp3.3c3b8406.png": "/static/media/wp3.3c3b8406.png",
+    "static/media/wp4.d84d4f76.png": "/static/media/wp4.d84d4f76.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9c713975.js",
+    "static/js/2.c1fcaa17.chunk.js",
+    "static/css/main.19f2e97e.chunk.css",
+    "static/js/main.175b0d3f.chunk.js"
+  ]
+}

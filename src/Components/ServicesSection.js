@@ -6,7 +6,6 @@ function ServicesSection({image, title, text, icon}) {
         <div className="ServicesSection">
             <div className="service">
                 <div className="service-content">
-                    {/* /<FontAwesomeIcon icon={image} className="mobile-icon"/> */}
                     <img src={image} alt="" className="s-img"/>
                     <h5 className="s-title">{title}</h5>
                     <p className="s-text">

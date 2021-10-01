@@ -12,8 +12,6 @@ const myworks = [
     {
         id: 1,
         category: 'WordPress',
-        // link1: 'www.youtube.com',
-        // link2: 'www.github.com',
         icon1: '<',
         icon2: '>',
         image: port1,
@@ -23,8 +21,6 @@ const myworks = [
     {
         id: 2,
         category: 'React Js',
-        // link1: 'www.youtube.com',
-        // link2: 'www.github.com',
         icon1: '<',
         icon2: '>',
         image: port5,
@@ -35,8 +31,6 @@ const myworks = [
     {
         id: 3,
         category: 'WordPress',
-         // link1: 'www.youtube.com',
-        // link2: 'www.github.com',
         icon1: '<',
         icon2: '>',
         image: port2,
@@ -46,8 +40,6 @@ const myworks = [
     {
         id: 4,
         category: 'React Js',
-         // link1: 'www.youtube.com',
-        // link2: 'www.github.com',
         icon1: '<',
         icon2: '>',
         image: port6,
@@ -57,8 +49,6 @@ const myworks = [
     {
         id: 5,
         category: 'WordPress',
-         // link1: 'www.youtube.com',
-        // link2: 'www.github.com',
         icon1: '<',
         icon2: '>',
         image: port3,
@@ -68,8 +58,6 @@ const myworks = [
     {
         id: 6,
         category: 'Javascript',
-         // link1: 'www.youtube.com',
-        // link2: 'www.github.com',
         icon1: '<',
         icon2: '>',
         image: port8,
@@ -80,8 +68,6 @@ const myworks = [
     {
         id: 7,
         category: 'React Js',
-         // link1: 'www.youtube.com',
-        // link2: 'www.github.com',
         icon1: '<',
         icon2: '>',
         image: port7,
@@ -93,8 +79,6 @@ const myworks = [
     {
         id: 8,
         category: 'WordPress',
-         // link1: 'www.youtube.com',
-        // link2: 'www.github.com',
         icon1: '<',
         icon2: '>',
         image: port4,
@@ -104,8 +88,6 @@ const myworks = [
     {
         id: 9,
         category: 'Javascript',
-         // link1: 'www.youtube.com',
-        // link2: 'www.github.com',
         icon1: '<',
         icon2: '>',
         image: port9,
@@ -115,33 +97,24 @@ const myworks = [
     {
         id: 10,
         category: 'Next Js',
-         // link1: 'www.youtube.com',
-        // link2: 'www.github.com',
         icon1: '<',
         icon2: '>',
-        // image: port6,
         title: 'Coming Soon With Next Js',
         paragraph: "(Built with Next Js)"
     },
     {
         id: 11,
         category: 'Node Js',
-         // link1: 'www.youtube.com',
-        // link2: 'www.github.com',
         icon1: '<',
         icon2: '>',
-        // image: port4,
         title: 'Coming Soon With Node Js',
         paragraph: "(Built with Node Js)"
     },
     {
         id: 12,
         category: 'Next Js',
-         // link1: 'www.youtube.com',
-        // link2: 'www.github.com',
         icon1: '<',
         icon2: '>',
-        // image: port6,
         title: 'Coming Soon With Next Js',
         paragraph: "(Built with Next Js)"
     }
